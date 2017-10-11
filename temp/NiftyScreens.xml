@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<nifty xmlns="http://nifty-gui.lessvoid.com/nifty-gui">
+    <useStyles filename="nifty-default-styles.xml"/>
+    <useControls filename="nifty-default-controls.xml"/>
+
+    <style id="glass-panel">
+        <attributes padding="16px" backgroundImage="Interface/Images/GlassPanel.png"
+                    imageMode="resize:16,68,16,16,16,68,16,68,16,68,16,16" />
+    </style>
+
+    <style id="metal-panel">
+        <attributes padding="16px" backgroundImage="Interface/Images/MetalPanel.png"
+                    imageMode="resize:16,68,16,16,16,68,16,68,16,68,16,16" />
+    </style>
+
+    <style id="metal-panel-plate">
+        <attributes padding="10px" backgroundImage="Interface/Images/MetalPanelPlate.png"
+                    imageMode="resize:10,60,10,10,10,60,10,60,10,60,10,10" />
+    </style>
+
+    <style id="diamond-icon">
+        <attributes filename="Interface/Images/Diamond.png" />
+    </style>
+
+    <style id="pilots-icon">
+        <attributes filename="Interface/Images/Pilots.png" />
+    </style>
+
+    <style id="large-text">
+        <attributes font="Interface/Fonts/kenvector_future_25px.fnt" />
+    </style>
+
+    <style id="medium-text">
+        <attributes font="Interface/Fonts/kenvector_future_15px.fnt" />
+    </style>
+
+    <style id="small-text">
+        <attributes font="Interface/Fonts/kenvector_future_10px.fnt" />
+    </style>
+
+    <screen id="titleScreen" controller="io.skidrunner.cartographer.MainApplication">
+        <layer childLayout="vertical" padding="10px">
+            <panel childLayout="horizontal" width="100%">
+                <control name="button" label="&lt;" width="30px" height="30px">
+                </control>
+                <panel height="0px" width="*" />
+                <control name="button" label="&gt;" width="30px" height="30px">
+
+                </control>
+            </panel>
+            <panel childLayout="vertical" width="100%" height="*">
+                <panel childLayout="center" width="100%" height="50%">
+                    <panel width="400px" height="200px" backgroundColor="#ffffffff" />
+                </panel>
+                <panel childLayout="center" width="100%" height="50%">
+                    <panel childLayout="vertical">
+                        <control name="button" label="New Game" width="200px" height="30px">
+
+                        </control>
+                        <panel height="10px" width="0px" />
+                        <control name="button" label="Load Game" width="200px" height="30px">
+
+                        </control>
+                        <panel height="10px" width="0px" />
+                        <control name="button" label="Join Game" width="200px" height="30px">
+
+                        </control>
+                        <panel height="10px" width="0px" />
+                        <control name="button" label="Host Game" width="200px" height="30px">
+
+                        </control>
+                    </panel>
+                </panel>
+            </panel>
+            <panel childLayout="horizontal" width="100%">
+                <image filename="Interface/Images/JmeBanner.png" width="180px" height="30px" />
+                <panel height="0px" width="*" />
+                <text style="medium-text" text="Created By: SkidRunner 2017" valign="center" />
+            </panel>
+        </layer>
+    </screen>
+
+</nifty>
