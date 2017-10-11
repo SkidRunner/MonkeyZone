@@ -17,7 +17,7 @@
 
 ## Contributors
 
-| [![Normen Hansen](https://github.com/normen.png?size=100)](https://hub.jmonkeyengine.org/users/normen) | [![Paul Speed](https://github.com/pspeed42.png?size=100)](https://hub.jmonkeyengine.org/users/pspeed) | [![Remy Bouquet](https://github.com/nehon.png?size=100)](https://hub.jmonkeyengine.org/users/nehon) | [![Mark Picknell](https://github.com/skidrunner.png?size=100)](https://hub.jmonkeyengine.org/users/skidrunner) |
+| [![normen](https://github.com/normen.png?size=100)](https://hub.jmonkeyengine.org/users/normen) | [![pspeed](https://github.com/pspeed42.png?size=100)](https://hub.jmonkeyengine.org/users/pspeed) | [![nehon](https://github.com/nehon.png?size=100)](https://hub.jmonkeyengine.org/users/nehon) | [![skidrunner](https://github.com/skidrunner.png?size=100)](https://hub.jmonkeyengine.org/users/skidrunner) |
 |:---:|:---:|:---:|:---:|
 | **normen** | **pspeed** | **nehon** | **skidrunner** |
 | [:octocat:](https://github.com/normen) [![jMonkeyEngine](https://avatars0.githubusercontent.com/u/1562906?v=3&s=20)](https://hub.jmonkeyengine.org/users/normen) | [:octocat:](https://github.com/pspeed42) [![jMonkeyEngine](https://avatars0.githubusercontent.com/u/1562906?v=3&s=20)](https://hub.jmonkeyengine.org/users/pspeed) | [:octocat:](https://github.com/nehon) [![jMonkeyEngine](https://avatars0.githubusercontent.com/u/1562906?v=3&s=20)](https://hub.jmonkeyengine.org/users/nehon) | [:octocat:](https://github.com/skidrunner) [![jMonkeyEngine](https://avatars0.githubusercontent.com/u/1562906?v=3&s=20)](https://hub.jmonkeyengine.org/users/skidrunner) |
